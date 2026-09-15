@@ -28,9 +28,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrooh7&theme=dark&radius=10" alt="Pedrooh7's Activity Graph" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -76,9 +73,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Pedrooh7)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/pedro-henrique-0a339933b"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pedro Cintra's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,3 +90,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
