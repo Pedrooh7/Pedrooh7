@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 ## 📌 About Me
 - l am a Computer Science student focused on back-end development, as well as data analysis and engineering. I enjoy building efficient applications, automation pipelines, and intelligent systems that can help both myself and others.
 
@@ -17,17 +19,6 @@
 - AI & Machine Learning: Scikit-learn, LangChain, LLM APIs
 - Databases: SQL, Supabase, SQLite
 - DevOps & Tools: Git, GitHub, Docker, Railway
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Pedrooh7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedrooh7&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Pedrooh7's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrooh7&theme=dark&radius=10" alt="Pedrooh7's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -65,12 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pedrooh7">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pedrooh7&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me
