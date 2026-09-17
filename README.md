@@ -60,7 +60,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/pedro-henrique-0a339933b"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pedro Cintra's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/pedro-cintra-0a339933b"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pedro Cintra's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pedrohtc23@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Pedro Cintra's Email"/></a>
 </p>
 
